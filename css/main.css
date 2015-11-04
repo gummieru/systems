@@ -8,6 +8,7 @@
 
 .nav li {
   display: inline;
+  padding: 24px 10px;
 }
 
 .jumbotron {
